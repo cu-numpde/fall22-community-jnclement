@@ -20,9 +20,9 @@ primary audience is.*
 | Typical number of emails/comments per week? |  See above  |
 | Typical number of commits per week? | O(10) |
 | Typical commit size | `git log --shortstat` seems to print every commit message from the entire history of the project. Answer unclear. |
-| How does the project accept contributions? | Yes  |
+| How does the project accept contributions? | Git pull requests on a development branch |
 | Does the project have an automated test suite? | Yes (previously answered NO, which was incorrect) |
-| Does the project use continuous integration? | appears to not; last commit was 2 days ago (at time of writing) |
+| Does the project use continuous integration? | Yes |
 | Are any legal/licensing steps required to contribute? | Uses LGPL liscense - may have to ask Jed for clarification |
 
 ### Install and run
@@ -30,8 +30,8 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [x] I have installed the software <-- on my desktop in WSL
-- [x] I have run at least one example <--- Updated
+- [x] I have installed the software <-- on my desktop in WSL -- will not build on laptop
+- [ ] I have run at least one example <--- Still broken :(
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
