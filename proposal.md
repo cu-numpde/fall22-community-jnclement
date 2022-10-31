@@ -21,7 +21,7 @@ primary audience is.*
 | Typical number of commits per week? | O(10) |
 | Typical commit size | `git log --shortstat` seems to print every commit message from the entire history of the project. Answer unclear. |
 | How does the project accept contributions? | Yes  |
-| Does the project have an automated test suite? | No, but it has plenty of examples. |
+| Does the project have an automated test suite? | Yes (previously answered NO, which was incorrect) |
 | Does the project use continuous integration? | appears to not; last commit was 2 days ago (at time of writing) |
 | Are any legal/licensing steps required to contribute? | Uses LGPL liscense - may have to ask Jed for clarification |
 
@@ -31,7 +31,7 @@ Check the following boxes when complete or add a note below if you
 encountered a problem.
 
 - [x] I have installed the software <-- on my desktop in WSL
-- [ ] I have run at least one example <--- Something is wrong with my environment - still debugging (maybe a WSL issue)
+- [x] I have run at least one example <--- Updated
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
