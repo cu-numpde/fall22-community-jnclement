@@ -16,8 +16,8 @@ primary audience is.*
 | Number of contributors in the past year | 14 |
 | Number of contributors in the lifetime of the project |  77  |
 | Number of distinct affiliations | 5-10 |
-| Where do development discussions take place? |  Unclear  |
-| Typical number of emails/comments per week? |  See above  |
+| Where do development discussions take place? |  Mailing list  |
+| Typical number of emails/comments per week? |  Unclear  |
 | Typical number of commits per week? | O(10) |
 | Typical commit size | `git log --shortstat` seems to print every commit message from the entire history of the project. Answer unclear. |
 | How does the project accept contributions? | Git pull requests on a development branch |
